@@ -1,6 +1,8 @@
 # AlkahestCoffee
 A 2D network multiplayer PVP game using LibGDX for graphics and Kryonet for networking.
 
+Note: I actually developed this project in 2017 with the help of my friend Aaron Li, I just never added it to this GitHub account. 
+
 ![Game Screenshot](readme_data/game_screenshot.png)
 
 ## Features
